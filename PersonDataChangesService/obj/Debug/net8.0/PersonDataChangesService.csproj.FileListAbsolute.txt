@@ -1,0 +1,7 @@
+/home/triophore/Tenders/282158_Trial_Work/PersonDataChangesService/obj/Debug/net8.0/PersonDataChangesService.csproj.AssemblyReference.cache
+/home/triophore/Tenders/282158_Trial_Work/PersonDataChangesService/obj/Debug/net8.0/PersonDataChangesService.GeneratedMSBuildEditorConfig.editorconfig
+/home/triophore/Tenders/282158_Trial_Work/PersonDataChangesService/obj/Debug/net8.0/PersonDataChangesService.AssemblyInfoInputs.cache
+/home/triophore/Tenders/282158_Trial_Work/PersonDataChangesService/obj/Debug/net8.0/PersonDataChangesService.AssemblyInfo.cs
+/home/triophore/Tenders/282158_Trial_Work/PersonDataChangesService/obj/Debug/net8.0/PersonDataChangesService.csproj.CoreCompileInputs.cache
+/home/triophore/Tenders/282158_Trial_Work/PersonDataChangesService/obj/Debug/net8.0/PersonDataChangesService.MvcApplicationPartsAssemblyInfo.cs
+/home/triophore/Tenders/282158_Trial_Work/PersonDataChangesService/obj/Debug/net8.0/PersonDataChangesService.MvcApplicationPartsAssemblyInfo.cache

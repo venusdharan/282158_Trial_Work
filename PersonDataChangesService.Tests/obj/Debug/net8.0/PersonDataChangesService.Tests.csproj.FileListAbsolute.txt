@@ -1,0 +1,6 @@
+/home/triophore/Documents/282158_Trial_Work/PersonDataChangesService.Tests/obj/Debug/net8.0/PersonDataChangesService.Tests.csproj.AssemblyReference.cache
+/home/triophore/Documents/282158_Trial_Work/PersonDataChangesService.Tests/obj/Debug/net8.0/PersonDataChangesService.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/triophore/Documents/282158_Trial_Work/PersonDataChangesService.Tests/obj/Debug/net8.0/PersonDataChangesService.Tests.AssemblyInfoInputs.cache
+/home/triophore/Documents/282158_Trial_Work/PersonDataChangesService.Tests/obj/Debug/net8.0/PersonDataChangesService.Tests.AssemblyInfo.cs
+/home/triophore/Documents/282158_Trial_Work/PersonDataChangesService.Tests/obj/Debug/net8.0/PersonDataChangesService.Tests.csproj.CoreCompileInputs.cache
+/home/triophore/Documents/282158_Trial_Work/PersonDataChangesService.Tests/obj/Debug/net8.0/PersonDataChangesService.Tests.sourcelink.json
