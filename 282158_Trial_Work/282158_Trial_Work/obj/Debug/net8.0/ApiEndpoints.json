@@ -1,0 +1,33 @@
+[
+  {
+    "ContainingType": "_282158_Trial_Work.Controllers.PersonDataController",
+    "Method": "GetAllPersons",
+    "RelativePath": "api/PersonData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_282158_Trial_Work.Controllers.PersonDataController",
+    "Method": "GetChanges",
+    "RelativePath": "api/PersonData/changes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "startDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "endDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
