@@ -1,0 +1,39 @@
+Service and type contracts
+
+write a c# contract using xroadlib library
+The service should be able to accept specified time periods and return information about individuals whose death records were created within that timeframe.
+write in such a way that i can integrate with existing asp.net core application
+add 'X' infront for all class names and interface names which are generated for X-tee 
+
+
+
+//IXPersonDataChangesService.cs
+
+using XRoadLib.Attributes;
+
+namespace _282158_Trial_Work.Contract
+{
+    public interface IXPersonDataChangesService
+    {
+        [XRoadOperation("GetChanges")]
+        IList<XDeathRecord> GetChanges(DateTime startDate, DateTime endDate);
+    }
+}
+
+//XDeathRecord.cs
+
+using System.Xml.Serialization;
+using XRoadLib.Attributes;
+using XRoadLib.Serialization;
+
+namespace _282158_Trial_Work.Contract
+{
+    public class XDeathRecord : XRoadSerializable
+    {
+        [XRoadXmlElement("personalIdentificationNumber", IsOptional = false)]
+        public string PersonalIdentificationNumber { get; set; }
+
+        [XRoadXmlElement("dateOfDeath", IsOptional = false)]
+        public DateTime DateOfDeath { get; set; }
+    }
+}

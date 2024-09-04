@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "hoP2Ou3sCOE=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\venus\\OneDrive\\Documents\\Projects\\282158_Trial_Work\\samples\\Calculator.Client\\Calculator.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\venus\\.nuget\\packages\\jetbrains.annotations\\6.1.0\\jetbrains.annotations.6.1.0.nupkg.sha512",
+    "C:\\Users\\venus\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\venus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\venus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\venus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1604",
+      "level": "Error",
+      "message": "Warning As Error: Project dependency JetBrains.Annotations does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
+      "libraryId": "JetBrains.Annotations",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Error",
+      "message": "Warning As Error: Package 'JetBrains.Annotations 6.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "JetBrains.Annotations",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
